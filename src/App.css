@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.buttonn{
+  font-size: 30px;
+  width: 50%;
+   margin-left: 20%;
+}
+.buttonn button{
+  width: 90px;
+  font-size: 40px;
+  margin: 20px;
+  background-color: rgb(209, 190, 148);
+}
+.buttonn p{
+  color: blue;
+  font-weight: bold;
+  border-bottom:  2px solid rgb(212, 183, 118);
+  
+}
+.effeccttt{
+  font-size: 15px;
+  width: 50%;
+  margin-left: 20%;
+}
+
+.effeccttt h1{
+  color: blue;
+  font-weight: bold;
+  border-bottom:  2px solid rgb(212, 183, 118);
+  
+}
+
+.reff h1{
+  color: blue;
+  font-weight: bold;
+  border-bottom:  2px solid rgb(212, 183, 118);
+  
+}
+
+.usereduer h1{
+  color: blue;
+  font-weight: bold;
+  border-bottom:  2px solid rgb(212, 183, 118);
+  
+}
+
+.usereduer button{
+  font-size: 30px;
+  margin: 10px;
+}
+.memeo button{
+  font-size: 20px;
+  margin: 20px;
+}
+
+.memeo h1{
+  color: blue;
+  font-weight: bold;
+  border-bottom:  2px solid rgb(212, 183, 118);
+  
+}
